@@ -1,6 +1,6 @@
 /*!
  * jQuery Cre-animate - Scrolling Animations - v1.1
- * Copyright (c) 2014 CreativelyCoded
+ * Copyright (c) 2014 ArteVisual.biz
  * support@creativelycoded.com
  *
  * http://www.creativelycoded.com/

@@ -22,7 +22,7 @@
 18. ACCORDION AND TABS
 19. STYLE SWITCHER
 20. OWL CAROUSEL
-21. PORTFOLIO STYLES
+21. Portafolio STYLES
 22. ISOTOPE FILTERING SCRIPT
 23. BREADCRUMBS STYLES
 24. PAGINATION STYLES
@@ -68,7 +68,7 @@ color: #50525f;
 transition: all 0.25s;
 }
 a:active, a:hover {
-color: #f56363;
+color: #d57e1c;
   outline: 0;
 }
 section {
@@ -138,14 +138,14 @@ text-align:center;
 /* ========== 3. HELPER CLASSES ==========  */
 /* =================================  */
 .color-primary {
-color: #f56363 !important;
+color: #d57e1c !important;
 }
 .bg-primary {
 color: #fff;
-background-color: #f56363 !important;
+background-color: #d57e1c !important;
 }
 .border-primary {
-border-color: #f56363 !important;
+border-color: #d57e1c !important;
 }
 .color-white {
 color:#FFF !important;
@@ -337,7 +337,7 @@ max-width: 100%;
 	.blog-img-hover .hover-full i {
 	position: absolute;
 	font-size: 12px;
-	color: #f56363;
+	color: #d57e1c;
 	top: 0;
 	right: 50%;
 	margin-right: -18px;
@@ -359,7 +359,7 @@ z-index: -1;
 	}
 .blog-img-hover .hover-full i:hover {
 color: #FFF;
-background-color: #f56363;
+background-color: #d57e1c;
 }
 
 /* For two link display for image hover */
@@ -378,7 +378,7 @@ background-color: #f56363;
 .blog-img-hover .hover-left i {
 	position: absolute;
 	font-size: 12px;
-	color: #f56363;
+	color: #d57e1c;
 	top: 0;
 	left: 50%;
 	margin-top: -18px;
@@ -395,7 +395,7 @@ z-index: -1;
 .blog-img-hover .hover-right i {
 	position: absolute;
 	font-size: 12px;
-	color: #f56363;
+	color: #d57e1c;
 	top: 0;
 	right: 50%;
 	margin-top: -18px;
@@ -416,7 +416,7 @@ z-index: -1;
 	}
 .blog-img-hover .hover-left i:hover, .blog-img-hover .hover-right i:hover {
 color: #FFF;
-background-color: #f56363;
+background-color: #d57e1c;
 }
 	hr.blank {
 	border-color: transparent;
@@ -461,7 +461,7 @@ font-size: 14px;
 line-height: 1;
 border-radius: 50px;
 padding: 12px;
-color: #f56363;
+color: #d57e1c;
 z-index: 5;
 background-color: #FFF;
 	    -webkit-transition: all 0.45s;
@@ -471,7 +471,7 @@ background-color: #FFF;
 }
 #blog-fullwidth .expand-img:hover i {
 color: #FFF;
-background-color: #f56363;
+background-color: #d57e1c;
 }
 #blog-fullwidth .post-img-lg {
 margin-bottom: 60px;
@@ -682,7 +682,7 @@ padding-top: 0;
 color: #FFF;
 }
 #sidebar .widget_calendar #wp-calendar #prev a:hover, #sidebar .widget_calendar #wp-calendar #next a:hover {
-color: #f56363;
+color: #d57e1c;
 }
 /* ====================================== */
 /* ========== 8. SCROLL TO TOP BUTTON ========== */
@@ -707,7 +707,7 @@ background-color: rgba(60,62,71,0.5);
   z-index: 10;
 }
 .scrollup i:hover {
-background-color: #f56363;
+background-color: #d57e1c;
 }
 /* =======================================  */
 /* ========== 9. TESTIMONIALS STYLES ==========  */
@@ -1142,7 +1142,7 @@ position: relative;
 z-index: 1;
 }
 .social-icons i:hover {
-color: #f56363;
+color: #d57e1c;
 }
 
 /* ============================================================ */
@@ -1255,7 +1255,7 @@ background-color:#F5F5F5;
 }
 
 #accordion .panel a.selected .panel-heading {
-background-color:#f56363;
+background-color:#d57e1c;
 border-radius:0;
 }
 
@@ -1279,7 +1279,7 @@ font-size:13px;
 }
 
 .nav-tabs > li.active > a,.nav-tabs > li.active > a:hover,.nav-tabs > li.active > a:focus {
-color:#f56363;
+color:#d57e1c;
 }
 
 .nav-tabs > li > a {
@@ -1296,7 +1296,7 @@ border:0;
 
 .nav-tabs > li.active > a {
 background-color:#FFF;
-border-bottom:3px solid #f56363;
+border-bottom:3px solid #d57e1c;
 }
 
 .nav-tabs i {
@@ -1329,7 +1329,7 @@ border:0;
 
 .nav-tabs#tabs > li.active > a {
 background-color:#FFF;
-border-bottom:3px solid #f56363;
+border-bottom:3px solid #d57e1c;
 }
 
 .nav#tabs > li {
@@ -1388,7 +1388,7 @@ margin-bottom: 5px;
 border: 2px solid #FFF;
 }
 .style-switch-wrapper #default {
-background-color: #f56363;
+background-color: #d57e1c;
 padding: 0;
 }
 .style-switch-wrapper #metro {
@@ -1579,28 +1579,28 @@ text-align: right;
 	background: url(AjaxLoader.html) no-repeat center center
 }
 /* ============================================================ */
-/* ================= 21. PORTFOLIO STYLES ======================= */
+/* ================= 21. Portafolio STYLES ======================= */
 /* ============================================================ */
-#portfolio div[class*='col-sm-'] {
+#Portafolio div[class*='col-sm-'] {
 padding-left: 0px;
 padding-right: 0px;
 }
-#portfolio button {
+#Portafolio button {
 margin-right: 1px;
 margin-left: 1px;
 }
-#portfolio .col-sm-3 .img-thumb {
+#Portafolio .col-sm-3 .img-thumb {
 height: 250px;
 }
-	#portfolio h2 {
+	#Portafolio h2 {
 	font-weight: 700;
 	margin-top: 20px;
 	margin-bottom: 15px;
 	}
-#portfolio .post-img-lg {
+#Portafolio .post-img-lg {
 margin-bottom: 60px;
 }
-.portfolio-hover {
+.Portafolio-hover {
 position: absolute;
 text-align: center;
 width: 100%;
@@ -1614,12 +1614,12 @@ opacity: 0;
   transition: all 0.45s;
   z-index: 10;
 }
-.portfolio-hover i {
+.Portafolio-hover i {
 position: relative;
 font-size: 12px;
 top: 1px;
 }
-.portfolio-hover-buttons {
+.Portafolio-hover-buttons {
 position: absolute;
 top: 50%;
 width: 100%;
@@ -1630,7 +1630,7 @@ color: #FFF;
   -o-transition: all 0.25s;
   transition: all 0.25s;
 }
-.portfolio-hover-buttons a{
+.Portafolio-hover-buttons a{
 border: 2px solid #FFF;
 border-radius: 2px;
 padding: 8px 18px;
@@ -1645,15 +1645,15 @@ text-transform: uppercase;
   -o-transition: all 0.25s;
   transition: all 0.25s;
 }
-.portfolio-hover-buttons a:last-child {
+.Portafolio-hover-buttons a:last-child {
 padding: 8px 10px;
 }
-.portfolio-hover-buttons a:hover {
+.Portafolio-hover-buttons a:hover {
 background-color:#FFF;
-color: #f56363;
+color: #d57e1c;
 border: 2px solid #FFF;
 }
-.portfolio-hover:hover {
+.Portafolio-hover:hover {
 opacity: 1;
 }
 .expand-img i {
@@ -1664,7 +1664,7 @@ font-size: 14px;
 line-height: 1;
 border-radius: 50px;
 padding: 12px;
-color: #f56363;
+color: #d57e1c;
 z-index: 5;
 background-color: #FFF;
 	    -webkit-transition: all 0.45s;
@@ -1674,7 +1674,7 @@ background-color: #FFF;
 }
 .expand-img:hover i {
 color: #FFF;
-background-color: #f56363;
+background-color: #d57e1c;
 }
 
 /* Related Project */
@@ -1784,7 +1784,7 @@ border-top-right-radius: 2px;
 border-bottom-right-radius: 2px;
 }
 .pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus {
-color: #f56363;
+color: #d57e1c;
 background-color: #eee;
 border-color: #ddd;
 }
@@ -1803,8 +1803,8 @@ border: 1px solid #ddd;
 z-index: 2;
 color: #fff;
 cursor: default;
-background-color: #f56363;
-border-color: #f56363;
+background-color: #d57e1c;
+border-color: #d57e1c;
 }
 /* Pager */
 .pager li > a, .pager li > span {
@@ -1839,7 +1839,7 @@ border-color: #f56363;
   line-height: 30px;
   color: #fff;
   text-align: center;
-  background-color: #f56363;
+  background-color: #d57e1c;
   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .15);
           box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .15);
   -webkit-transition: width .6s ease;
@@ -1896,7 +1896,7 @@ th {
 /* ================= 27. FOOTER STYLES ======================= */
 /* ============================================================ */
 .footer {
-background-color: #3c3e47;
+background-color: #4e3986;
 }
 .footer .social-icons i {
 display: inline-block;
@@ -1912,7 +1912,7 @@ transition:  all 0.35s;
 }
 .footer .social-icons i:hover {
 color: #FFF;
-background-color: #F56363;
+background-color: #d57e1c;
 }
 .footer a, .footer a:link, .footer a:visited {
 text-decoration: none;
@@ -1920,7 +1920,7 @@ color: #BBB;
   outline: 0;
 }
 .footer a:active, .footer a:hover {
-color: #f56363;
+color: #d57e1c;
   outline: 0;
 }
 .footer-logo {
